@@ -7,6 +7,7 @@ The Game of Life, is a cellular automaton devised by the British mathematician J
 ## Preview
 
 This is what the program will look like when you run it
+
 ![](https://media.giphy.com/media/yVs20cCGb3Wquy37M8/giphy-downsized.gif)
 
 ## How do I play?
